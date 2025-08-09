@@ -1,5 +1,4 @@
-# Ad_Click_Prediction_LogisticRegression
-# Predicting Ad Click Behavior Using Logistic Regression
+# Predicting Ad Click Behavior Using Logistic **Regression**
 
 This project uses a synthetic advertising dataset to build a machine learning model that predicts whether a user will click on an online advertisement based on their demographics and internet usage behavior.
 
